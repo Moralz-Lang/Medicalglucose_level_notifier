@@ -1,0 +1,14 @@
+Patient Name: jody
+Age: 40
+Contact: 12345678@gmail.com
+Date of Birth: 2000-01-01
+Glucose Level: 130 mg/dL
+Status: Normal glucose level
+----------------------------------------
+Patient Name: jody\
+Age: 40
+Contact: 12345678@gmail.com
+Date of Birth: 2000-01-01
+Glucose Level: 130 mg/dL
+Status: Normal glucose level
+----------------------------------------
